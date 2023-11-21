@@ -33,7 +33,7 @@ scikit-learn==1.1.1
 setuptools==63.1.0
 stable-baselines3[extra]==1.5.0
 stockstats==0.4.1
-tensorboardX==2.5.1
+tensorboardX>=2.5.1
 wheel==0.37.1
 wrds==3.1.1
 yfinance>=0.2.22
