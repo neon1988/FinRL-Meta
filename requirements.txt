@@ -11,10 +11,10 @@ jqdatasdk==1.8.10
 lz4==4.0.1
 
 # plot
-matplotlib==3.5.2
+matplotlib>=3.5.2
 # data handling
-numpy==1.23.1
-pandas==1.4.3
+numpy>=1.23.1
+pandas>=1.4.3
 
 # pandas
 pandas_market_calendars==3.5
