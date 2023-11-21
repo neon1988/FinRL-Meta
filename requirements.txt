@@ -1,6 +1,5 @@
 # Requirements
 
-alpaca-trade-api>=1.4.3
 ccxt>=1.90.1
 elegantrl
 
